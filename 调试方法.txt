@@ -1,0 +1,7 @@
+1、开发环境win10+vc2019，解决方案使用x64 +安装内存泄漏检测
+
+2、MOVE_CARD项目设为启动项目
+
+3、MOVE_CARD项目的设置
+工程属性-》调试-》命令 填上 ../x64\Debug\AutoVision.exe
+
